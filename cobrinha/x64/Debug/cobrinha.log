@@ -1,0 +1,18 @@
+﻿  Origem.cpp
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,29): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,29): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,48): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,48): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,57): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,57): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,67): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(103,67): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,36): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,36): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,55): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,55): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,69): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,69): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,83): warning C4838: a conversão de 'float' em 'int' requer uma conversão de restrição
+C:\Users\ruanl\OneDrive\Desktop\git\snake_game\cobrinha\Origem.cpp(116,83): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+  cobrinha.vcxproj -> C:\Users\ruanl\OneDrive\Desktop\git\snake_game\x64\Debug\cobrinha.exe
